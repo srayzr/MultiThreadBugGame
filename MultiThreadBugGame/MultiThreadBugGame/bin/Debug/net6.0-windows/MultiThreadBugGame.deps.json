@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MultiThreadBugGame/1.0.0": {
+        "runtime": {
+          "MultiThreadBugGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiThreadBugGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

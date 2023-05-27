@@ -1,0 +1,17 @@
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\bin\Debug\net6.0-windows\MultiThreadBugGame.exe
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\bin\Debug\net6.0-windows\MultiThreadBugGame.deps.json
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\bin\Debug\net6.0-windows\MultiThreadBugGame.runtimeconfig.json
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\bin\Debug\net6.0-windows\MultiThreadBugGame.dll
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\bin\Debug\net6.0-windows\MultiThreadBugGame.pdb
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\obj\Debug\net6.0-windows\MultiThreadBugGame.csproj.AssemblyReference.cache
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\obj\Debug\net6.0-windows\MultiThreadBugGame.Form1.resources
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\obj\Debug\net6.0-windows\MultiThreadBugGame.csproj.GenerateResource.cache
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\obj\Debug\net6.0-windows\MultiThreadBugGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\obj\Debug\net6.0-windows\MultiThreadBugGame.AssemblyInfoInputs.cache
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\obj\Debug\net6.0-windows\MultiThreadBugGame.AssemblyInfo.cs
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\obj\Debug\net6.0-windows\MultiThreadBugGame.csproj.CoreCompileInputs.cache
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\obj\Debug\net6.0-windows\MultiThreadBugGame.dll
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\obj\Debug\net6.0-windows\refint\MultiThreadBugGame.dll
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\obj\Debug\net6.0-windows\MultiThreadBugGame.pdb
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\obj\Debug\net6.0-windows\MultiThreadBugGame.genruntimeconfig.cache
+D:\WorldShell\MultiThreadBugGame\MultiThreadBugGame\obj\Debug\net6.0-windows\ref\MultiThreadBugGame.dll
